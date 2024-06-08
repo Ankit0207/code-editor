@@ -61,9 +61,10 @@ npm run start
 ### Dashboard
 - An interface displaying four code editor for different languages.
 
-![n1]()
-![n2]()
-
+![n1](https://github.com/Ankit0207/code-editor/blob/main/code-highlighter/src/Asset/React%20App%20-%20Brave%2009-06-2024%2000_10_10.png)
+![n2](https://github.com/Ankit0207/code-editor/blob/main/code-highlighter/src/Asset/React%20App%20-%20Brave%2009-06-2024%2000_10_14.png)
+![n3](https://github.com/Ankit0207/code-editor/blob/main/code-highlighter/src/Asset/React%20App%20-%20Brave%2009-06-2024%2000_10_20.png)
+![n4](https://github.com/Ankit0207/code-editor/blob/main/code-highlighter/src/Asset/React%20App%20-%20Brave%2009-06-2024%2000_10_24.png)
 
 ## Design Philosophy
 The application adopts a modern, minimalist design to ensure a clean and user-friendly interface.
