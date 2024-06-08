@@ -1,0 +1,46 @@
+.code-editor-container {
+    position: relative;
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.code-editor,
+.code-highlight {
+    position: absolute;
+    margin: auto;
+    border: 0;
+    width: 96%;
+    height: 90%;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    background-color: rgb(246, 242, 236);
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    scroll-behavior: smooth;
+}
+
+.code-editor,
+.code-highlight {
+    font-size: 15px;
+    font-family: monospace;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.code-editor {
+    z-index: 1;
+    resize: none;
+}
+
+.code-highlight {
+    z-index: 0;
+}
+
+.code-editor {
+    color: transparent;
+    background: transparent;
+    caret-color: purple;
+}
